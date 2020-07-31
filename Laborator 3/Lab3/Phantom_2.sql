@@ -1,0 +1,3 @@
+-- PHANTOM READS
+
+INSERT INTO Manager1 VALUES ('Kay', 'Developing', '0755555590', 5, '1998-09-09')

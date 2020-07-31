@@ -1,0 +1,14 @@
+-- DEADLOCK
+
+GO 
+CREATE OR ALTER PROCEDURE D2 AS
+	BEGIN TRANSACTION
+		UPDATE Gifts SET Description = 'new descirption 2'
+		WHERE GiftId=1
+
+		WAITFOR DELAY '00:00:10'
+
+		UPDATE Manager1 SET ManagerPhone = '0799999099'
+		WHERE ManagerId=1
+	COMMIT TRANSACTION
+

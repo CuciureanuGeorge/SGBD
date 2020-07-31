@@ -1,0 +1,7 @@
+D:\Facultate\SGBD\Lab3\DeadlockThreads\bin\Debug\DeadlockThreads.exe.config
+D:\Facultate\SGBD\Lab3\DeadlockThreads\bin\Debug\DeadlockThreads.exe
+D:\Facultate\SGBD\Lab3\DeadlockThreads\bin\Debug\DeadlockThreads.pdb
+D:\Facultate\SGBD\Lab3\DeadlockThreads\obj\Debug\DeadlockThreads.csprojAssemblyReference.cache
+D:\Facultate\SGBD\Lab3\DeadlockThreads\obj\Debug\DeadlockThreads.csproj.CoreCompileInputs.cache
+D:\Facultate\SGBD\Lab3\DeadlockThreads\obj\Debug\DeadlockThreads.exe
+D:\Facultate\SGBD\Lab3\DeadlockThreads\obj\Debug\DeadlockThreads.pdb
